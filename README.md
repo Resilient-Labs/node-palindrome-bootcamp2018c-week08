@@ -1,21 +1,21 @@
-# ↔️ Week08 Bootcamp2018c Project: Server Side Palindrome Checker
+# Week08 Bootcamp2018c Project: Palindrome
+Goal: Create an applicatiion using node that will tell if a namd/word is a Palindrome
 
-### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.
+How It's Made:
+Tech used: HTML, CSS, JavaScript, Node.JS
 
-### How to submit your code for review:
+You'll see and app in which I used node and js to create a place where you can tell whether or not a name and word are a Palindrome
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+Optimizations
+(optional)
+
+i would hvae simplified the codes given more time
+
+Lessons Learned:
+I learned the importance of psudo code and how it will help you iron out your code
 
 Example:
-```
+
 I completed the challenge: 5
 I feel good about my code: 4
 I'm not sure if my constructors are setup cleanly...
